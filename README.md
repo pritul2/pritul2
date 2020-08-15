@@ -21,4 +21,4 @@ I am a student at Charotar University of Science and Technology passionate about
 - 😄 Pronouns: Beyond He and She
 - ⚡ Fun fact: talk to me to know more 
 
-![A few stats about me on Github](https://github-readme-stats.vercel.app/api?username=pritul2&show_icons=true)
+[![Pritul Dave's github stats](https://github-readme-stats.vercel.app/api?username=pritul2)](https://github.com/pritul2/github-readme-stats)
