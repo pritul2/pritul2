@@ -15,7 +15,7 @@ I am a student at Charotar University of Science and Technology passionate about
 
 - 🔭 I’m currently working on Computer vision.
 - 🌱 I’m currently learning Deep Learning and Machine Learning.
-- 👯 I’m looking to collaborate on Computer vision, Image processing and Machine Learning
+- 👯 I’m looking to collaborate on Computer vision, Deep Learning, Image processing and Machine Learning
 - 💬 Ask me about Computer Vision, taking your application to production
 - 📫 How to reach me: [pritul.dave@gmail.com](mailto:pritul.dave@gmail.com), [@DavePritul](https://twitter.com/DavePritul)
 - 😄 Pronouns: Beyond He and She
