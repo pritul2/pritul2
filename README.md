@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/prituldave/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DavePritul?style=social)](https://twitter.com/DavePritul)
 [![GitHub followers](https://img.shields.io/github/followers/pritul2?label=Follow&style=social)](https://github.com/pritul2)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pritul2.visitor-badge)
 
 I am a student at Charotar University of Science and Technology passionate about Computer Vision, Machine Learning and Deep Learning.
 
