@@ -28,7 +28,6 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
 </p>
-<br/>
 <!--<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpritul2"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpritul2&label=Views&countColor=%23263759&style=plastic" /></a>-->
 <br/><br/>
 <p align="right">
