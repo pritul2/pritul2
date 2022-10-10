@@ -28,5 +28,10 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
 </p>
+<br/><br/>
+<p align="right">
+If you like what I do, support me 👇🏻 <br/><br/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/prituldave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" /></a>
+</p>
+
 
 
