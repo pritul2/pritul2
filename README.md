@@ -29,7 +29,7 @@
   </a>
 </p>
 <br/>
-![visitor](https://komarev.com/ghpvc/?username=pritul2)
+<!--<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpritul2"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpritul2&label=Views&countColor=%23263759&style=plastic" /></a>-->
 <br/><br/>
 <p align="right">
 If you like what I do, support me 👇🏻 <br/><br/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/prituldave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" /></a>
