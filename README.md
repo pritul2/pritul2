@@ -1,4 +1,4 @@
-<img width="899" alt="Untitled 2" src="https://user-images.githubusercontent.com/41751718/194879060-f6e73e85-cc92-4e96-80bc-f69e5abdb6af.png">
+<img width="599" height="350" alt="Untitled 2" src="https://user-images.githubusercontent.com/41751718/194879060-f6e73e85-cc92-4e96-80bc-f69e5abdb6af.png" style="display: block; margin-left: auto; margin-right: auto;">
 
 
 
