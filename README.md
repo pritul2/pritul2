@@ -6,7 +6,9 @@
 <hr>
 <h3>I loves Book Reading, Coding Challenges, Wrangling Data, Statistical Modelling, AI & Web3 </h3> <br/>    
 <p align="center">
+    <a href="https://github.com/pritul2?tab=repositories">
     <img src="https://skillicons.dev/icons?i=py,tensorflow,aws,flask,gcp,mysql,mongodb" />
+    </a>
 </p>
 
 ## Connect with Me 🤝🏻
