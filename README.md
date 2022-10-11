@@ -1,3 +1,7 @@
+<!--<div align='right'>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpritul2"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpritul2&label=Views&countColor=%23263759&style=plastic" /></a>
+</div>-->
+
 <div align="center"> <img width="599" height="350" alt="Untitled 2" src="https://user-images.githubusercontent.com/41751718/194879060-f6e73e85-cc92-4e96-80bc-f69e5abdb6af.png" style="display: block; margin-left: auto; margin-right: auto;"> </div>
 <hr>
 <h3>I loves Book Reading, Coding Challenges, Wrangling Data, Statistical Modelling, AI & Web3 </h3> <br/>    
@@ -28,7 +32,7 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
 </p>
-<!--<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpritul2"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpritul2&label=Views&countColor=%23263759&style=plastic" /></a>-->
+
 <br/><br/>
 <p align="right">
 If you like what I do, support me 👇🏻 <br/><br/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/prituldave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="120" /></a>
